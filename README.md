@@ -1,4 +1,3 @@
-# Mini-Project-08
 R Programming Assignment
 
 Q1.   Create a file that contains 1000 lines of random strings. 
